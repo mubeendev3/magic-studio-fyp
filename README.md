@@ -1,4 +1,4 @@
-# ImaginAI: An AI SaaS Platform
+# MagicStudio AI: An AI SaaS Platform
 
 ![Next.js](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6) ![Stripe](https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248) ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4)
 
@@ -11,9 +11,9 @@
 
 ## 🤖 Introduction
 
-Welcome to ImaginAI, the ultimate AI image SaaS platform. Our platform is designed to empower users like you to unlock the full potential of image processing. With a secure payment infrastructure, advanced image search capabilities, and a wide range of AI features, including image restoration, recoloring, object removal, generative filling, and background removal, ImaginAI is the go-to tool for photographers, graphic designers, and enthusiasts alike.
+Welcome to MagicStudio AI, the ultimate AI image SaaS platform. Our platform is designed to empower users like you to unlock the full potential of image processing. With a secure payment infrastructure, advanced image search capabilities, and a wide range of AI features, including image restoration, recoloring, object removal, generative filling, and background removal, MagicStudio AI is the go-to tool for photographers, graphic designers, and enthusiasts alike.
 
-Our user-friendly interface and seamless experience across devices make it easy for you to transform your images and bring them to life like never before. Whether you're looking to enhance your portfolio or simply explore your creative side, ImaginAI is here to revolutionize the way you interact with images.
+Our user-friendly interface and seamless experience across devices make it easy for you to transform your images and bring them to life like never before. Whether you're looking to enhance your portfolio or simply explore your creative side, MagicStudio AI is here to revolutionize the way you interact with images.
 
 ## ⚙️ Tech Stack
 
@@ -59,8 +59,8 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/mfaeezshabbir/imaginai.git
-cd imaginai
+git clone https://github.com/mfaeezshabbir/MagicStudio AI.git
+cd MagicStudio AI
 ```
 
 ### Installation
